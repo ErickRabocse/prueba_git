@@ -6,3 +6,4 @@ visualización de archivos
 history
 readme
 # prueba: 2da sección
+Al usar el simbolo # se crea una sección en README!
