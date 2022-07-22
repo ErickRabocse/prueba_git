@@ -1,1 +1,4 @@
-This text is a test
+This text is a test.
+This are the second changes commited.
+Once the changes are added. They wont 
+be removed.
