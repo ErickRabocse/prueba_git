@@ -6,5 +6,5 @@ Al usar el símbolo # se crea una sección en README!
 Este cambio fue creado de forma local
 I have to select the file that I am uploading!
 Este cambio fue creado de forma remota :)
-#Contribuidores del proyecto
+# Contribuidores del proyecto
 Erick & Codi
